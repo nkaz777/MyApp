@@ -1,0 +1,12 @@
+.sample {
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    background-color: #FF0000;
+    color: #660000;
+    font-weight: 700;
+    font-family: Impact;
+    font-size: 18pt;
+    width: 100px;
+    height: 100px;
+}
